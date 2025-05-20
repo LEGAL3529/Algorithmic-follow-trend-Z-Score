@@ -1,4 +1,4 @@
-# Z-Score Mean-Reversion Strategy on NQ Futures
+# Z-Score Mean-Reversion Strategy on NQ Futures (LimexQuant Course Project)
 This repository explores a mean-reversion trading strategy based on the Z-score of price deviations from a moving average, applied to Nasdaq (NQ) futures.
 
 ## 📈 Strategy Logic
